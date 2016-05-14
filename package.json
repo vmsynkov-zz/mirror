@@ -1,0 +1,34 @@
+{
+  "name": "mirrormirroronthewall",
+  "version": "0.8.5",
+  "description": "This package provides public API for magic mirror from Pushkins The Tale of the Dead Princess and the Seven Knights",
+  "main": "mirror.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmsynkov/mirror.git"
+  },
+  "keywords": [
+    "api",
+    "pushkin",
+    "mirror",
+    "the",
+    "tale",
+    "of",
+    "the",
+    "dead",
+    "princess",
+    "and",
+    "the",
+    "seven",
+    "knights"
+  ],
+  "author": "Viktor Synkov <vmsynkov@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vmsynkov/mirror/issues"
+  },
+  "homepage": "https://github.com/vmsynkov/mirror#readme"
+}
