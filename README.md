@@ -7,10 +7,11 @@
 ```javascript
 const mirrormirroronthewall = require( 'mirrormirroronthewall' )
 
-mirrormirroronthewall.whostheprettiestofthemall();
+// pass your sex as argument, defaults to female
+mirrormirroronthewall.whostheprettiestofthemall()
 ```
 * Check console and smile
 
-> You, of course, no doubt about it : you, the queen of all the sweeter, ruddy and whiter
+> You, of course, no doubt about it : you, the ${yourSex} of all the sweeter, ruddy and whiter
 
 [npm](https://www.npmjs.com/package/mirrormirroronthewall)
