@@ -1,6 +1,6 @@
 {
   "name": "mirrormirroronthewall",
-  "version": "0.8.5",
+  "version": "1.0.0",
   "description": "This package provides public API for magic mirror from Pushkins The Tale of the Dead Princess and the Seven Knights",
   "main": "mirror.js",
   "scripts": {
